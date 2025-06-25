@@ -1,0 +1,6 @@
+INSTRUCIONS
+
+1. Load all the contents of the zip file
+2. PREQUISTIES ->
+	pip install dotenv google.generativeai datetime
+3. Run the main.py file 

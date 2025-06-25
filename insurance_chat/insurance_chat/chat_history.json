@@ -1,0 +1,262 @@
+[
+    {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-06-08 23:09:00.989606"
+    },
+    {
+        "sender": "bot",
+        "message": "Hello! I'm your insurance assistant. What do you need help with today?",
+        "timestamp": "2025-06-08 23:09:01.021082"
+    },
+    {
+        "sender": "user",
+        "message": "i want a quote",
+        "timestamp": "2025-06-08 23:09:09.436309"
+    },
+    {
+        "sender": "bot",
+        "message": "Sure! Please tell me your age and insurance type (life/health/vehicle).",
+        "timestamp": "2025-06-08 23:09:09.460296"
+    },
+    {
+        "sender": "user",
+        "message": "43 vehicle",
+        "timestamp": "2025-06-08 23:09:20.960687"
+    },
+    {
+        "sender": "bot",
+        "message": "Based on your info, the estimated premium is \u20b9700/year.",
+        "timestamp": "2025-06-08 23:09:20.979910"
+    },
+    {
+        "sender": "user",
+        "message": "file a claim",
+        "timestamp": "2025-06-08 23:09:31.965503"
+    },
+    {
+        "sender": "bot",
+        "message": "Let's file a claim. What's your policy number and incident description?",
+        "timestamp": "2025-06-08 23:09:31.986572"
+    },
+    {
+        "sender": "user",
+        "message": "12345678 Car accident on 4th June",
+        "timestamp": "2025-06-08 23:10:04.296553"
+    },
+    {
+        "sender": "bot",
+        "message": "Your claim for policy 12345678 has been filed successfully.",
+        "timestamp": "2025-06-08 23:10:04.320004"
+    },
+    {
+        "sender": "user",
+        "message": "bye",
+        "timestamp": "2025-06-08 23:10:25.027702"
+    },
+    {
+        "sender": "bot",
+        "message": "Goodbye! Let me know if you need help again.",
+        "timestamp": "2025-06-08 23:10:25.059702"
+    },
+    {
+        "sender": "user",
+        "message": "exit",
+        "timestamp": "2025-06-08 23:10:29.185839"
+    },
+    {
+        "sender": "bot",
+        "message": "Thanks for chatting. Stay insured!",
+        "timestamp": "2025-06-08 23:10:29.211187"
+    },
+    {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-06-08 23:11:56.601746"
+    },
+    {
+        "sender": "bot",
+        "message": "Hello! I'm your insurance assistant. What do you need help with today?",
+        "timestamp": "2025-06-08 23:11:56.633769"
+    },
+    {
+        "sender": "user",
+        "message": "i want a quote",
+        "timestamp": "2025-06-08 23:13:07.766080"
+    },
+    {
+        "sender": "bot",
+        "message": "Sure! Please tell me your age and insurance type (life/health/vehicle).",
+        "timestamp": "2025-06-08 23:13:07.792667"
+    },
+    {
+        "sender": "user",
+        "message": "76 health",
+        "timestamp": "2025-06-08 23:13:13.956294"
+    },
+    {
+        "sender": "bot",
+        "message": "Estimated premium for health is \u20b91000/year. Policy number: H101000",
+        "timestamp": "2025-06-08 23:13:14.002804"
+    },
+    {
+        "sender": "user",
+        "message": "H101000 health during old ages",
+        "timestamp": "2025-06-08 23:13:46.729726"
+    },
+    {
+        "sender": "bot",
+        "message": "I'm not sure how to help. Try 'quote', 'file a claim', or 'my policies'.",
+        "timestamp": "2025-06-08 23:13:46.760493"
+    },
+    {
+        "sender": "user",
+        "message": "file a claim",
+        "timestamp": "2025-06-08 23:13:55.438939"
+    },
+    {
+        "sender": "bot",
+        "message": "Let's file a claim. What's your policy number and incident description?",
+        "timestamp": "2025-06-08 23:13:55.462577"
+    },
+    {
+        "sender": "user",
+        "message": "H101000 health during old ages",
+        "timestamp": "2025-06-08 23:13:57.400169"
+    },
+    {
+        "sender": "bot",
+        "message": "Claim for policy health (h101000) filed successfully.",
+        "timestamp": "2025-06-08 23:13:57.440692"
+    },
+    {
+        "sender": "user",
+        "message": "exit",
+        "timestamp": "2025-06-08 23:14:02.748340"
+    },
+    {
+        "sender": "bot",
+        "message": "Thanks for chatting. Stay insured!",
+        "timestamp": "2025-06-08 23:14:02.781302"
+    },
+    {
+        "sender": "user",
+        "message": "hi",
+        "timestamp": "2025-06-08 23:14:35.693715"
+    },
+    {
+        "sender": "bot",
+        "message": "Hello! I'm your insurance assistant. What do you need help with today?",
+        "timestamp": "2025-06-08 23:14:35.721275"
+    },
+    {
+        "sender": "user",
+        "message": "i want a quote",
+        "timestamp": "2025-06-08 23:14:39.809056"
+    },
+    {
+        "sender": "bot",
+        "message": "Sure! Please tell me your age and insurance type (life/health/vehicle).",
+        "timestamp": "2025-06-08 23:14:39.834556"
+    },
+    {
+        "sender": "user",
+        "message": "73 health",
+        "timestamp": "2025-06-08 23:14:47.249980"
+    },
+    {
+        "sender": "bot",
+        "message": "Estimated premium for health is \u20b91000/year. Policy number: H101000",
+        "timestamp": "2025-06-08 23:14:47.278037"
+    },
+    {
+        "sender": "user",
+        "message": "file a claim",
+        "timestamp": "2025-06-08 23:14:50.766326"
+    },
+    {
+        "sender": "bot",
+        "message": "Let's file a claim. What's your policy number and incident description?",
+        "timestamp": "2025-06-08 23:14:50.789904"
+    },
+    {
+        "sender": "user",
+        "message": "health h101000 pre old age file",
+        "timestamp": "2025-06-08 23:15:11.549360"
+    },
+    {
+        "sender": "bot",
+        "message": "Claim for policy h101000 (health) filed successfully.",
+        "timestamp": "2025-06-08 23:15:11.581330"
+    },
+    {
+        "sender": "user",
+        "message": "exit",
+        "timestamp": "2025-06-08 23:21:36.355678"
+    },
+    {
+        "sender": "bot",
+        "message": "Thanks for chatting. Stay insured!",
+        "timestamp": "2025-06-08 23:21:36.379860"
+    },
+    {
+        "sender": "user",
+        "message": "career",
+        "timestamp": "2025-06-08 23:30:52.791470"
+    },
+    {
+        "sender": "user",
+        "message": "exit",
+        "timestamp": "2025-06-08 23:32:00.322088"
+    },
+    {
+        "sender": "bot",
+        "message": "Thanks for chatting. Stay insured!",
+        "timestamp": "2025-06-08 23:32:00.347708"
+    },
+    {
+        "sender": "user",
+        "message": "career",
+        "timestamp": "2025-06-09 21:13:34.759748"
+    },
+    {
+        "sender": "user",
+        "message": "career",
+        "timestamp": "2025-06-09 21:15:35.566544"
+    },
+    {
+        "sender": "user",
+        "message": "career",
+        "timestamp": "2025-06-09 21:17:00.200796"
+    },
+    {
+        "sender": "user",
+        "message": "bac",
+        "timestamp": "2025-06-09 21:27:31.487419"
+    },
+    {
+        "sender": "bot",
+        "message": "I'm not sure how to help. Try 'quote', 'file a claim', or 'my policies'.",
+        "timestamp": "2025-06-09 21:27:31.510547"
+    },
+    {
+        "sender": "user",
+        "message": "back",
+        "timestamp": "2025-06-09 21:27:37.678704"
+    },
+    {
+        "sender": "bot",
+        "message": "I'm not sure how to help. Try 'quote', 'file a claim', or 'my policies'.",
+        "timestamp": "2025-06-09 21:27:37.702577"
+    },
+    {
+        "sender": "user",
+        "message": "exit",
+        "timestamp": "2025-06-09 21:27:42.167985"
+    },
+    {
+        "sender": "bot",
+        "message": "Thanks for chatting. Stay insured!",
+        "timestamp": "2025-06-09 21:27:42.190090"
+    }
+]

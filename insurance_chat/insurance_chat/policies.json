@@ -1,0 +1,33 @@
+{
+    "users": {
+        "default_user": {
+            "policies": {
+                "life": {
+                    "policy_number": "L123456",
+                    "premium": 1200,
+                    "status": "active"
+                },
+                "health": {
+                    "policy_number": "H101000",
+                    "premium": 1000,
+                    "status": "active"
+                },
+                "vehicle": {
+                    "policy_number": "V998877",
+                    "premium": 850,
+                    "status": "active"
+                },
+                "travel": {
+                    "policy_number": "T445566",
+                    "premium": 500,
+                    "status": "expired"
+                },
+                "property": {
+                    "policy_number": "P778899",
+                    "premium": 1350,
+                    "status": "active"
+                }
+            }
+        }
+    }
+}

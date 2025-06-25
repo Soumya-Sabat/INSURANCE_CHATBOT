@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning"],
+      "responses": ["Hello! I'm your insurance assistant. What do you need help with today?"]
+    },
+    {
+      "tag": "get_quote",
+      "patterns": ["quote", "insurance cost", "premium", "how much"],
+      "responses": ["Sure! Please tell me your age and insurance type (life/health/vehicle)."]
+    },
+    {
+      "tag": "file_claim",
+      "patterns": ["file a claim", "report accident", "submit claim"],
+      "responses": ["Let's file a claim. What's your policy number and incident description?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "exit", "quit"],
+      "responses": ["Goodbye! Let me know if you need help again."]
+    }
+  ]
+}
